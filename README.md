@@ -3,6 +3,7 @@
 <p> The submitted project showcases basic Git commands and workflows, including repository creation, branching, staging, committing </p>
 <p> we are reworking on the project again</p>
 <p> update-navigation guy just did some work before the holiday</p>
+<p> Hello my name is add-contact guy thanks for adding me</p>
 
 ## Task 1: Create a Pull Request
 1. Created a new pull request on github.
