@@ -8,7 +8,7 @@
 
 ## Task 1: Create a Pull Request
 1. Created a new pull request on github.
-![](./images/pull_request_create.png)
+![](./images/pull_request_create.pnggit )
 
 1. Checking the list of contibutors.
 ![](./images/new_pull_request.png)
