@@ -2,6 +2,7 @@
 <p> This is a capstone project that shows Tom and Jerry. </p>
 <p> The submitted project showcases basic Git commands and workflows, including repository creation, branching, staging, committing </p>
 <p> we are reworking on the project again</p>
+<p> update-navigation guy just did some work before the holiday</p>
 
 ## Task 1: Create a Pull Request
 1. Created a new pull request on github.
