@@ -4,10 +4,11 @@
 <p> we are reworking on the project again</p>
 <p> update-navigation guy just did some work before the holiday</p>
 <p> Hello my name is add-contact guy thanks for adding me</p>
+<p> this will work oO </p>
 
 ## Task 1: Create a Pull Request
 1. Created a new pull request on github.
-![](./images/creating_a_pull.png)
+![](./images/pull_request_create.png)
 
 1. Checking the list of contibutors.
 ![](./images/new_pull_request.png)
